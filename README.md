@@ -1,4 +1,4 @@
-# Next JS & API Slack
+# Nest JS & API Slack
 ## Table of contents
 * [Resume](#resume)
 * [Pre-requirements](#pre-requirements)
