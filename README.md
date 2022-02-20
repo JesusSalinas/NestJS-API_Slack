@@ -1,4 +1,4 @@
-# Next JS & API Slack
+# Nest JS & API Slack
 ## Table of contents
 * [Resume](#resume)
 * [Pre-requirements](#pre-requirements)
@@ -17,3 +17,6 @@ The main aim of this project is to provide a basic...
 ## Dependencies
 * ``npm i -g @nestjs/cli ``
 * ``nest new project-name``
+* ``npm i --save @nestjs/config``
+* ``npm i --save @nestjs/axios``
+* In progress...
