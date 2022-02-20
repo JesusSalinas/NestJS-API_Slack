@@ -156,7 +156,7 @@ export class SlackService {
       headers: {
         'Content-Type': 'application/json',
         Authorization: `Bearer ${this.configService.get<string>(
-          'global.qa_service_token',
+          'global.api_slack_token',
         )}`,
       }, // params: {}
     };
